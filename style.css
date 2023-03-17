@@ -93,6 +93,13 @@
   }
   
   footer p {
-    padding: 33px;
+    padding: 63px 21px;
     font-size: 12px;
+  }
+
+
+@media  (max-width: 450px) {
+    .card {
+      width: 315px;
+    }
   }
